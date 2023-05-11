@@ -18,7 +18,7 @@ Normal Wix:
 
 Wix Scraper:
 
-![image](https://github.com/ryanhlewis/WixScraper/assets/76540311/044b540b-5069-451d-abc9-32a8206b8d30)
+![image](https://github.com/ryanhlewis/WixScraper/assets/76540311/5bfaac1f-b472-4224-b7b1-ed7b949dd1e7)
 
 ## Configuration
 
@@ -83,3 +83,13 @@ python wixscraper.py
 ```
 
 That's it! You now have a fully offline and working copy.
+
+
+### Help
+
+Feel free to drop an issue if you find any problems with this tool.
+Here are some keywords to help other people find it.
+
+```
+wix converter, wix offline, wix scraper, scrape wix, offline wix website, convert wix, host wix offline, wix tool, wix optimizer, optimize wix, wix speed, make wix faster, fast wix
+```
