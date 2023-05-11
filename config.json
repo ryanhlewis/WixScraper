@@ -1,0 +1,36 @@
+{
+    "site": "https://example.wixsite.com/example1",
+    "blockPrimaryFolder": "example1",
+    "wait": 3,
+    "recursive": "True",
+    "darkWebsite": "False",
+    "forceDownloadAgain": "False",
+    "metatags": {
+        "/example1": {
+            "title": "Example1 | The Best Wix Website",
+            "description": "Example1 is the best Wix website of all time.",
+            "keywords": "example keyword, example1 keyword",
+            "canonical": "https://example1.com/",
+            "image": "https://example1.com/banner.png",
+            "author": "Example1 Author"
+        },
+        "/example1/about": {
+            "title": "About | Example1 Website",
+            "description": "About Example1 which is the best Wix website of all time.",
+            "keywords": "example keyword, example1 keyword",
+            "canonical": "https://example1.com/about",
+            "image": "https://example1.com/banner.png",
+            "author": "Example1 Author"
+        }
+    },
+    "mapData": {
+        "latitude": "32.0879315",
+        "longitude": "34.797246",
+        "zoom": "12",
+        "mapMarker": {
+            "latitude": "32.0879315",
+            "longitude": "34.797246",
+            "popup": "<p>Wix HQ, Tel Aviv, Israel</p>"
+        }
+    }
+}
